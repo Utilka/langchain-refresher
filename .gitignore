@@ -193,3 +193,5 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+/example_data/nke-10k-2023.pdf
